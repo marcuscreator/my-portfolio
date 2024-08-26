@@ -1,4 +1,3 @@
-
 "use client";
 import { useEffect, useRef } from "react";
 import styles from "./styles/Home.module.css";
@@ -10,7 +9,7 @@ import Projects from "./components/projects";
 import Skills from "./components/skills";
 import Services from "./components/services";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import './App.css';
+import "./App.css";
 
 function App() {
   const sectionsRef = useRef([]);
@@ -49,10 +48,17 @@ function App() {
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
               Welcome to My Portfolio
             </h1>
-            <p className="text-lg md:text-2xl">
-              Showcasing my passion for turning caffeine into code. Let's code the future
-              together!
+            <p className="text-lg md:text-2xl mb-6">
+              Showcasing my passion for turning caffeine into code. Let's code
+              the future together!
             </p>
+            <a
+              href="/files/MARCUS_MACHARIA_CV.pdf"
+              download
+              className="inline-block rounded bg-pink-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-pink-700 focus:outline-none focus:ring focus:ring-yellow-400"
+            >
+              Download Resume
+            </a>
           </div>
         </div>
       </section>
