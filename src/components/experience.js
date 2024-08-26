@@ -14,7 +14,7 @@ export default function Experience() {
               <div className="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-2">
                   <a
                       className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-                      href="#"
+                      href="https://yflab.org/"
                   >
                       <h3 className="text-xl font-bold text-white">Youth Future Lab(YFL)</h3>
                       <p className="mt-2 text-sm text-gray-300">Role: ICT Assistant Intern</p>
@@ -26,7 +26,7 @@ export default function Experience() {
 
                   <a
                       className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-                      href="#"
+                      href="https://www.codekazi.org/"
                   >
                       <h3 className="text-xl font-bold text-white">Code Kazi</h3>
                       <p className="mt-2 text-sm text-gray-300">Role: Junior Developer Intern</p>
@@ -38,7 +38,7 @@ export default function Experience() {
 
                   <a
                       className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-                      href="#"
+                      href="https://utalii.ac.ke/"
                   >
                       <h3 className="text-xl font-bold text-white">Kenya Utalii College</h3>
                       <p className="mt-2 text-sm text-gray-300">Role: ICT Intern</p>
