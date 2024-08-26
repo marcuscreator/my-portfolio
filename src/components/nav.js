@@ -40,34 +40,34 @@ export default function Nav() {
       <ul
         className={`${
           isOpen ? "block" : "hidden"
-        } lg:flex lg:space-x-8 text-white font-bold bg-gray-900 lg:bg-transparent lg:static absolute top-16 left-0 w-full lg:w-auto lg:top-0 lg:left-auto p-4 lg:p-0`}
+        } lg:flex lg:space-x-8 text-white font-bold bg-black bg-opacity-90 lg:bg-transparent lg:static absolute top-16 left-0 w-full lg:w-auto lg:top-0 lg:left-auto p-4 lg:p-0`}
       >
-        <li className="py-2  lg:py-0">
+        <li className="py-2 text-center lg:py-0">
           <a href="#home" className="block hover:underline">
             Home
           </a>
         </li>
-        <li className="py-2 lg:py-0">
+        <li className="py-2 text-center lg:py-0">
           <a href="#about" className="block hover:underline">
             About
           </a>
         </li>
-        <li className="py-2 lg:py-0">
+        <li className="py-2 text-center lg:py-0">
           <a href="#experience" className="block hover:underline">
             Experience
           </a>
         </li>
-        <li className="py-2 lg:py-0">
+        <li className="py-2 text-center lg:py-0">
           <a href="#education" className="block hover:underline">
             Education
           </a>
         </li>
-        <li className="py-2 lg:py-0">
+        <li className="py-2 text-center lg:py-0">
           <a href="#projects" className="block hover:underline">
             Projects
           </a>
         </li>
-        <li className="py-2 lg:py-0 lg:hidden">
+        <li className="py-2 text-center lg:py-0 lg:hidden">
           <a
             href="/files/MARCUS_MACHARIA_CV.pdf"
             download
