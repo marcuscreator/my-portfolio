@@ -5,7 +5,7 @@ export default function Experience() {
               <div className="mx-auto max-w-lg text-center">
                   <h2 className="text-3xl font-bold sm:text-4xl">My Work Experience</h2>
                   <p className="mt-4 text-gray-300">
-                      Over the past three years, I have gained valuable experience working with various technologies
+                       I have gained valuable experience working with various technologies
                       and contributing to different projects. Here’s a snapshot of my professional journey across
                       several companies.
                   </p>

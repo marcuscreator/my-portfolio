@@ -15,7 +15,7 @@ export default function About() {
             <h2 class="text-3xl font-bold sm:text-4xl">About Me...</h2>
 
             <p class="mt-4 text-white">
-              Over the past three years, I've honed my skills in frontend
+              I've honed my skills in frontend
               development, particularly with JavaScript frameworks like Next.js
               and TypeScript. My experience includes building dynamic,
               responsive websites and applications that provide seamless user
