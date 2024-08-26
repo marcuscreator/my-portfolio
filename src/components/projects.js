@@ -5,7 +5,7 @@ const projects = [
     title: "My Portfolio",
     description: "Get to know more about the developer .",
     imageUrl: "/images/projects/project-1.png", // Updated path
-    link: "#",
+    link: "https://my-portfolio-bice-theta.vercel.app/",
   },
   {
     title: "Eunikim Academy",
