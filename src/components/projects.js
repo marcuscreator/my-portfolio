@@ -8,11 +8,10 @@ const projects = [
     link: "https://my-portfolio-bice-theta.vercel.app/",
   },
   {
-    title: "Eunikim Academy",
-    description:
-      "Get reliable information about the school straight from the management .",
+    title: "Construction Template",
+    description: "Designed for contractors, architects, and project managers.",
     imageUrl: "/images/projects/project-2.png", // Updated path
-    link: "https://github.com/marcuscreator/Eunikim-Academy",
+    link: "https://construction-template-chi.vercel.app/",
   },
   {
     title: "Beats by Kobby",
